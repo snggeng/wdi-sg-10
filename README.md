@@ -56,7 +56,6 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 | Navigating the File System | [CSS Selector Basics](https://github.com/ga-students/lesson-css-selector-basic) | Bootstrap CSS Slides  | HLab: Functions | Review - Rock, Paper, Scissors |
 |- | [CSS Selector Game](http://flukeout.github.io/)| Bootstrap CSS Lesson | - | HLab: JS Koans |
 |- | HLab: Simple Website | HLab: Bootstrap Site Replication |- |- |
-|  | HLab: Simple Website | HLab: Bootstrap Site Replication |  |  |
 
 
 ## Licensing
