@@ -20,7 +20,7 @@ __You must also use this repo to notify of your completed homework. Follow the C
 - Clone your forked repository on your local computer
     + `git clone http://url_of_your_fork_on_github.git`
 - Add an upstream, so that your local copy's remote is pointing to my repository on Github (this repository)
-    + Move into the the repository `cd sg-wdi-3`
+    + Move into the the repository `cd sg-wdi-10`
     + `git remote add upstream https://github.com/ga-students/sg-wdi-10`
     + `git pull upstream master`
 
