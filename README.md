@@ -5,13 +5,13 @@ Lesson notes will be kept in the Wiki.
 The weekly calendar can also be found here.
 
 If you have issues you can [raise them as
-issues](https://github.com/jenshk/sg-wdi-10/issues).
+issues](https://github.com/ga-students/sg-wdi-10/issues).
 
 __You must also use this repo to notify of your completed homework. Follow the Contribution Instructions below.__
 
 ## Read Only Instructions
 - The quickest way to get a copy of the files on your system, is to just clone this repository to your local machine.
-    + `git clone https://github.com/jenshk/sg-wdi-10`
+    + `git clone https://github.com/ga-students/sg-wdi-10`
 
 ## Contribution Instructions
 
@@ -21,7 +21,7 @@ __You must also use this repo to notify of your completed homework. Follow the C
     + `git clone http://url_of_your_fork_on_github.git`
 - Add an upstream, so that your local copy's remote is pointing to my repository on Github (this repository)
     + Move into the the repository `cd sg-wdi-3`
-    + `git remote add upstream https://github.com/jenshk/sg-wdi-10`
+    + `git remote add upstream https://github.com/ga-students/sg-wdi-10`
     + `git pull upstream master`
 - Create your own directory in the `students/` directory
     - `cd students` to move into the students directory
