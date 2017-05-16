@@ -1,7 +1,8 @@
 
 # WDI SG 10
 This is the main workspace for WDI SG 10. Here you will find all the course materials: assignments, starter-code etc.   
-Lesson notes will be kept in the Wiki.
+Lesson notes will be kept in the
+[Wiki](https://github.com/ga-students/sg-wdi-10/wiki).
 The weekly calendar can also be found here.
 
 If you have issues you can [raise them as
