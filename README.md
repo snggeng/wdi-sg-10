@@ -5,7 +5,7 @@ Lesson notes will be kept in the Wiki.
 The weekly calendar can also be found here.
 
 If you have issues you can [raise them as
-issues](https://github.com/jenshk/sg-wdi-10)./issues).
+issues](https://github.com/jenshk/sg-wdi-10/issues).
 
 __You must also use this repo to notify of your completed homework. Follow the Contribution Instructions below.__
 
