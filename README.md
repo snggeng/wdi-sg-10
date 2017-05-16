@@ -23,12 +23,6 @@ __You must also use this repo to notify of your completed homework. Follow the C
     + Move into the the repository `cd sg-wdi-3`
     + `git remote add upstream https://github.com/ga-students/sg-wdi-10`
     + `git pull upstream master`
-- Create your own directory in the `students/` directory
-    - `cd students` to move into the students directory
-    - `mkdir givenname-familyname` to create your own directory
-    - cd `givenname-familyname` into your own directory
-    - `touch README.md` to create a new README.md file
-    - Update the README file to include your name, and links to your online homework and assignments
 
 ### Pushing Assignments
 
