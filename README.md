@@ -59,6 +59,6 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 
 
 ## Licensing
-0. All content is licensed under a CC­BY­NC­SA 4.0 license.    
+0. All content is licensed under a CC­-BY-­NC-­SA 4.0 license.    
 0. All software code is licensed under GNU GPLv3. For commercial use or
 alternative licensing, please contact legal@ga.co.
