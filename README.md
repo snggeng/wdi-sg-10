@@ -53,7 +53,7 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 |                            | HTML Basics           | Box Model and Positioning        | [Data Types, Variables, Arrays](https://github.com/ga-students/lesson-js-data-types-variables-and-arrays)       | JS Debugging                   |
 | LUNCH                      | LUNCH                 | LUNCH                            | LUNCH                               | LUNCH                          |
 | Installing Software        | Chrome Dev Tools      | ILab: HTML CSS Site Replication  | Mastering the Flow                  | Fundamentals Review            |
-| Navigating the File System | [CSS Selector Basics](https://github.com/ga-students/lesson-css-selector-basic) | Bootstrap CSS Slides  | HLab: Functions | Review - Rock, Paper, Scissors |
+| Navigating the File System | [CSS Selector Basics](https://github.com/ga-students/lesson-css-selector-basic) | Bootstrap CSS Slides  | [HLab: Functions](https://github.com/ga-students/lab-js-functions) | Review - Rock, Paper, Scissors |
 |- | [CSS Selector Game](http://flukeout.github.io/)| Bootstrap CSS Lesson | - | HLab: JS Koans |
 |- | [HLab: Simple Website](https://github.com/ga-students/lab-simple-website) | [HLab: Bootstrap Site Replication](https://github.com/claussian/lab-bootstrap-site-replication) |- |- |
 
