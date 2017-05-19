@@ -57,6 +57,44 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 |- | [CSS Selector Game](http://flukeout.github.io/)| Bootstrap CSS Lesson | - | HLab: JS Koans |
 |- | [HLab: Simple Website](https://github.com/ga-students/lab-simple-website) | [HLab: Bootstrap Site Replication](https://github.com/claussian/lab-bootstrap-site-replication) |- |- |
 
+<a name="week2"></a>
+### Week 2 | Front-end Fundamentals
+
+| [Monday](#w2d1)                  | [Tuesday](#w2d2)                      | [Wednesday](#w2d3)             | [Thursday](#w2d4)             | [Friday](#w2d5)                 |
+| -------------------------------- | ------------------------------------- | ------------------------------ | ----------------------------- | ------------------------------- |
+| [JS Objects][2-1A]               | [Assessment][2-2A] & [Solution][1-2Z] | [@Dom Manipulation][2-3A]      | [RLab: Shopping Cart][2-3E]   | [Project Spec][2-5A]            |
+| [ILab: JS Objects][2-1B]         | [RLab: Objects & Arrays][2-1E]        | [ILab: Dom Manipulation][2-3B] | [ILab: Tic-Tac-Toe][2-4A]     | [Presentation Guidelines][2-5B] |
+| LUNCH                            | [Function and Scope][2-2B]            | LUNCH                          | LUNCH                         | LUNCH                           |
+| [JS Arrays][2-1C]                | LUNCH                                 | [JQuery Lesson][2-3C]          | [ILab: 10 Seconds Math][2-4B] | [Agile Framework][2-5C]         |
+| [ILab: JS Arrays Problems][2-1D] | [Github Lesson][2-2C]                 | [JQuery Game][2-3D]            | -                             | Project Pitch Day1              |
+| [HLab: Objects & Arrays][2-1E]   | [ILab: Github][2-2D]                  | [HLab: Shoppoing Cart][2-3E]   | -                             | -                               |
+| -                                | [Read: Git][2-2E]                     | -                              | -                             | -                               |
+
+[2-1A]: 00-programming/js-objects-lesson                                      "JS Objects"
+[2-1B]: https://github.com/wdi-hk-12/lab-js-problems-objects                  "ILab: JS Objects"
+[2-1C]: 00-programming/js-arrays-lesson                                       "JS Arrays"
+[2-1D]: https://github.com/wdi-hk-12/lab-js-problems-arrays                   "ILab: JS Arrays Problems"
+[2-1E]: https://github.com/wdi-hk-12/lab-js-problems-objects-and-arrays       "HLab: Objects & Arrays"
+
+[2-2A]: 14-assessments/w02d2.md                                               "Assessment"
+[2-2Z]: 14-assessments/w02d2-solution.md                                      "Assessment Solution"
+[2-2B]: 00-programming/js-functions-and-scope                                 "Function and Scope"
+[2-2C]: 01-workflow/git-github-lesson                                         "Github Lesson"
+[2-2D]: https://github.com/wdi-hk-12/lab-git-github                           "ILab: Github"
+[2-2E]: https://git-scm.com/doc                                               "Read: Git"
+
+[2-3A]: 02-front-end-intro/js-dom-manipulation-lesson                         "Dom Manipulation"
+[2-3B]: https://github.com/wdi-hk-12/lab-js-dom-manipulation                  "ILab: Dom Manipulation"
+[2-3C]: 02-front-end-intro/js-jquery-lesson                                   "JQuery Lesson"
+[2-3D]: http://jqexercise.droppages.com/                                      "JQuery Game"
+[2-3E]: https://github.com/wdi-hk-12/lab-shopping-cart                        "HLab: Shopping Cart"
+
+[2-4A]: https://github.com/wdi-hk-12/lab-js-tic-tac-toe                       "ILab: Tic-Tac-Toe Lab"
+[2-4B]: https://github.com/wdi-hk-12/lab-ten-seconds-math                     "ILab: 10 Seconds Math"
+
+[2-5A]: projects/project-01.md                                                "Project Spec"
+[2-5B]: projects/presentation_guideline.md                                    "Presentation Guidelines"
+[2-5C]: 01-workflow/agile-user-stories-wireframes-lesson                      "Agile Framework"
 
 ## Licensing
 0. All content is licensed under a CC­-BY-­NC-­SA 4.0 license.    
