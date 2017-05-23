@@ -62,7 +62,7 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 
 | [Monday](#w2d1)                  | [Tuesday](#w2d2)                      | [Wednesday](#w2d3)             | [Thursday](#w2d4)             | [Friday](#w2d5)                 |
 | -------------------------------- | ------------------------------------- | ------------------------------ | ----------------------------- | ------------------------------- |
-| [JS Objects][2-1A]               | [Assessment][2-2A] & [Solution][1-2Z] | [@Dom Manipulation][2-3A]      | [RLab: Shopping Cart][2-3E]   | [Project Spec][2-5A]            |
+| [JS Objects][2-1A]               | [Assessment][2-2A] & [Solution][2-2Z] | [@Dom Manipulation][2-3A]      | [RLab: Shopping Cart][2-3E]   | [Project Spec][2-5A]            |
 | [ILab: JS Objects][2-1B]         | [RLab: Objects & Arrays][2-1E]        | [ILab: Dom Manipulation][2-3B] | [ILab: Tic-Tac-Toe][2-4A]     | [Presentation Guidelines][2-5B] |
 | LUNCH                            | [Function and Scope][2-2B]            | LUNCH                          | LUNCH                         | LUNCH                           |
 | [JS Arrays][2-1C]                | LUNCH                                 | [JQuery Lesson][2-3C]          | [ILab: 10 Seconds Math][2-4B] | [Agile Framework][2-5C]         |
