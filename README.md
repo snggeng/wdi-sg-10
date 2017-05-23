@@ -45,7 +45,7 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 
 ## Calendar
 
-### __Week 1: Front-End Fundamentals__
+### __Week 1 | Front-End Fundamentals__
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 |----------------------------|-----------------------|----------------------------------|-------------------------------------|--------------------------------|
 | Kickoff!!                  | Assessment & Solution | Assessment& Solution             | Assessment & Solution               | Assessment & Solution          |
@@ -58,7 +58,7 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 |- | [HLab: Simple Website](https://github.com/ga-students/lab-simple-website) | [HLab: Bootstrap Site Replication](https://github.com/claussian/lab-bootstrap-site-replication) |- |- |
 
 <a name="week2"></a>
-### Week 2 | Front-end Fundamentals
+### __Week 2 | Front-end Fundamentals__
 
 | [Monday](#w2d1)                  | [Tuesday](#w2d2)                      | [Wednesday](#w2d3)             | [Thursday](#w2d4)             | [Friday](#w2d5)                 |
 | -------------------------------- | ------------------------------------- | ------------------------------ | ----------------------------- | ------------------------------- |
