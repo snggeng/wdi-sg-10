@@ -67,7 +67,7 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 | LUNCH                            | [Function and Scope][2-2B]            | LUNCH                          | LUNCH                         | LUNCH                           |
 | [JS Arrays][2-1C]                | LUNCH                                 | [JQuery Lesson][2-3C]          | [ILab: 10 Seconds Math][2-4B] | [Agile Framework][2-5C]         |
 | [ILab: JS Arrays Problems][2-1D] | [Github Lesson][2-2C]                 | [JQuery Game][2-3D]            | -                             | Project Pitch Day1              |
-| [HLab: Objects & Arrays][2-1E]   | [ILab: Github][2-2D]                  | [HLab: Shoppoing Cart][2-3E]   | -                             | -                               |
+| [HLab: Objects & Arrays][2-1E]   | [ILab: Github][2-2D]                  | [HLab: Shopping Cart][2-3E]   | -                             | -                               |
 | -                                | [Read: Git][2-2E]                     | -                              | -                             | -                               |
 
 [2-1A]: 00-programming/js-objects-lesson                                      "JS Objects"
