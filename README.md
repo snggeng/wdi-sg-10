@@ -109,7 +109,7 @@ Time   | [Monday](#w3d1)                          | [Tuesday](#w3d2)            
 13:00  |                                |                                         |                                         |                                         | Final touch up (HTML & CSS)             |
 14:00  |                                          |                                         |                                         |                                         |                                         |
 15:00  |                                          |                                         |                                         |                                         | Presentation                            |
-16:00  | Demo                                     | Demo                                    | Demo                                    | Demo                                    | [Project 1 Code Review][3-5A]           |
+16:00  | Demo                                     | Demo                                    | Demo                                    | Demo                                      |                                  |
 17:00  | Done for Day                             | Done for Day                            | Done for Day                            | Done for Day                            | Done for Day                            |
 
 [3-5A]: projects/project_1_code_review.md                   "Project 1 Code Review"
