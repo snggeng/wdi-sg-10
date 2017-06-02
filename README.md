@@ -123,7 +123,7 @@ Time   | [Monday](#w3d1)                          | [Tuesday](#w3d2)            
 | LUNCH                            | LUNCH            | LUNCH                          | LUNCH                         | LUNCH                           |
 | [Project 1 Code Review][4-2A]                | Templating in JS                     | Node.js: JSON          | MongoDB: Setup | HLab: Mongoose Modeling        |
 | How to Structure Code| HLab: Express Routes                 | Node.js: AJAX            | MongoDB: Basics                            | -            |
-| -   | -            | -   | -      | ILab: Mongo Restaurants     | -  |
+| -   | -            | -   | ILab: Mongo Restaurants     | -  |
 
 
 [4-2A]: projects/project_1_code_review.md                   "Project 1 Code Review"
