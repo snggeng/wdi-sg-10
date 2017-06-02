@@ -126,7 +126,7 @@ Time   | [Monday](#w3d1)                          | [Tuesday](#w3d2)            
 | -   | -            | -   | ILab: Mongo Restaurants     | -  |
 
 
-[4-2A]: projects/project_1_code_review.md                   "Project 1 Code Review"
+[4-2A]: projects/project_1/project_1_code_review.md                   "Project 1 Code Review"
 
 
 ## Licensing
