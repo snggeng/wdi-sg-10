@@ -44,29 +44,29 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 
 ## Projects
 | Student | Project 1 | Project 2 | Project 3 | Project 4 |
-|Alex Min
-|Dhea Mariesta Chanjaya
-|Han Xiang Choong
-|Juliana Hafid
-|Tan Sam
-|Bryan Lee
-|Bulner Xavier
-|Charles Chia
-|Dionne Phua
-|Elnathan
-|Ericson Mok
-|GeokYan Pek
-|Han
-|Hanif Samad Sg
-|Isaac koh
-|Julian
-|Justin Cheong
-|Kenny Tan
-|Mervyn Lim
-|Rachel Lee
-|Robyn Kwok
-|Tiffany Chua
-|Woody See
+|[Alex Min][0-1A]|[Every 30 Seconds][0-2A]|-|-|-|
+|[Dhea Mariesta Chanjaya][0-1B]|[Dance Dance Revolution][0-2B]|-|-|-|
+|[Han Xiang Choong][0-1C]|[Tower Defense][0-2C]|-|-|-|
+|[Juliana Hafid][0-1D]|[Shooting Balloons][0-2D]|-|-|-|
+|[Sam Tan][0-1E]|[Black Jack][0-2E]|-|-|-|
+|[Bryan Lee][0-1F]|[Projectile Game][0-2F]|-|-|-|
+|[Bulner Xavier][0-1G]|[Match It][0-2G]|-|-|-|
+|[Charles Chia][0-1H]|[Memory Game][0-2H]|-|-|-|
+|[Dionne Phua][0-1I]|[Burger Stack 'em Up][0-2I]|-|-|-|
+|[Elnathan][0-1J]|[Zombie Apocalypse][0-2J]|-|-|-|
+|[Ericson Mok][0-1K]|[Annoy the Kitten][0-2K]|-|-|-|
+|[GeokYan Pek][0-1L]|[Zombie Strategy Game][0-2L]|-|-|-|
+|[Han, Jervois Sng][0-1M]|[Falling Furni][0-2M]|-|-|-|
+|[Hanif Samad][0-1N]|[LOTR Snake Game][0-2N]|-|-|-|
+|[Isaac koh][0-1O]|[Super Space Destroy-Ya][0-2O]|-|-|-|
+|[Julian][0-1P]|[Beach Ball][0-2P]|-|-|-|
+|[Justin Cheong][0-1Q]|[Beyond Terra][0-2Q]|-|-|-|
+|[Kenny Tan][0-1R]|[Slots Machine][0-2R]|-|-|-|
+|[Mervyn Lim][0-1S]|[Bumper Cars][0-2S]|-|-|-|
+|[Rachel Lee][0-1T]|[Dungeon][0-2T]|-|-|-|
+|[Robyn Kwok][0-1U]|[George][0-2U]|-|-|-|
+|[Tiffany Chua][0-1V]|[Rage][0-2V]|-|-|-|
+|[Woody See][0-1W]|[Delivery & Debts][0-2W]|-|-|-|
 
 ## Calendar
 
