@@ -55,7 +55,7 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 |[Dionne Phua][0-1I]|[Burger Stack 'em Up][0-2I]|-|-|-|
 |[Elnathan][0-1J]|[Zombie Apocalypse][0-2J]|-|-|-|
 |[Ericson Mok][0-1K]|[Annoy the Kitten][0-2K]|-|-|-|
-|[GeokYan Pek][0-1L]|[Zombie Strategy Game][0-2L]|-|-|-|
+|[GeokYan Pek][0-1L]|[Survive Zombie World][0-2L]|-|-|-|
 |[Han, Jervois Sng][0-1M]|[Falling Furni][0-2M]|-|-|-|
 |[Hanif Samad][0-1N]|[LOTR Snake Game][0-2N]|-|-|-|
 |[Isaac koh][0-1O]|[Super Space Destroy-Ya][0-2O]|-|-|-|
@@ -67,6 +67,32 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 |[Robyn Kwok][0-1U]|[George][0-2U]|-|-|-|
 |[Tiffany Chua][0-1V]|[Rage][0-2V]|-|-|-|
 |[Woody See][0-1W]|[Delivery & Debts][0-2W]|-|-|-|
+
+[0-1A]: https://github.com/AlexMin314 "Alex Min"
+[0-1B]: https://github.com/DheaMariesta "Dhea Mariesta Chanjaya"
+[0-1C]: https://github.com/HanXiangC "Han Xiang Choong"
+[0-1D]: https://github.com/JulianaHafid "Juliana Hafid"
+[0-1E]: https://github.com/Tan-Sam "Sam Tan"
+[0-1F]: https://github.com/bryanleejh "Bryan Lee"
+[0-1G]: https://github.com/bxw200 "Bulner Xavier"
+[0-1H]: https://github.com/CharlesChiaYH "Charles Chia"
+[0-1I]: https://github.com/dionnephualiann "Dionne Phua"
+[0-1J]: https://github.com/eLn86 "Elnathan"
+[0-1K]: https://github.com/ericsonmok "Ericson Mok"
+[0-1L]: https://github.com/Wiz1221 "GeokYan Peh"
+[0-1M]: https://github.com/jmhs "Han, Jervois Sng"
+[0-1N]: https://github.com/claussian "Hanif Samad"
+[0-1O]: https://github.com/isaackps "Isaac Koh"
+[0-1P]: https://github.com/happypill "Julian"
+[0-1Q]: https://github.com/jcjzdeveloper "Justin Cheong"
+[0-1R]: https://github.com/PuPu-KT "Kenny Tan"
+[0-1S]: https://github.com/MervLim "Mervyn Lim"
+[0-1T]: https://github.com/rubyflames "Rachel Lee"
+[0-1U]: https://github.com/kwokrobyn "Robyn Kwok"
+[0-1V]: https://github.com/tiffchuasx "Tiffany Chua"
+[0-1W]: https://github.com/woodysee "Woody See"
+
+
 
 ## Calendar
 
