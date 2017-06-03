@@ -50,19 +50,19 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 |[Han Xiang Choong][0-1C]|[Tower Defense][0-2C]|-|-|-|
 |[Juliana Hafid][0-1D]|[Shooting Balloons][0-2D]|-|-|-|
 |[Sam Tan][0-1E]|[Black Jack][0-2E]|-|-|-|
-|[Bryan Lee][0-1F]|[Projectile Game][0-2F]|-|-|-|
+|[Bryan Lee][0-1F]|[Blocks Game][0-2F]|-|-|-|
 |[Bulner Xavier][0-1G]|[Match It][0-2G]|-|-|-|
 |[Charles Chia][0-1H]|[Memory Game][0-2H]|-|-|-|
 |[Dionne Phua][0-1I]|[Burger Stack 'em Up][0-2I]|-|-|-|
 |[Elnathan][0-1J]|[Zombie Apocalypse][0-2J]|-|-|-|
 |[Ericson Mok][0-1K]|[Annoy the Kitten][0-2K]|-|-|-|
-|[GeokYan Pek][0-1L]|[Survive Zombie World][0-2L]|-|-|-|
+|[Geok Yan Pek][0-1L]|[Survive Zombie World][0-2L]|-|-|-|
 |[Han, Jervois Sng][0-1M]|[Falling Furni][0-2M]|-|-|-|
-|[Hanif Samad][0-1N]|[LOTR Snake Game][0-2N]|-|-|-|
+|[Hanif Samad][0-1N]|[LOTR Snake][0-2N]|-|-|-|
 |[Isaac koh][0-1O]|[Super Space Destroy-Ya][0-2O]|-|-|-|
-|[Julian][0-1P]|[Beach Ball][0-2P]|-|-|-|
+|[Julian][0-1P]|[Bouncing Beach Ball][0-2P]|-|-|-|
 |[Justin Cheong][0-1Q]|[Beyond Terra][0-2Q]|-|-|-|
-|[Kenny Tan][0-1R]|[Slots Machine][0-2R]|-|-|-|
+|[Kenny Tan][0-1R]|[Jackpot Machine][0-2R]|-|-|-|
 |[Mervyn Lim][0-1S]|[Bumper Cars][0-2S]|-|-|-|
 |[Rachel Lee][0-1T]|[Dungeon][0-2T]|-|-|-|
 |[Robyn Kwok][0-1U]|[George][0-2U]|-|-|-|
@@ -80,18 +80,42 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 [0-1I]: https://github.com/dionnephualiann "Dionne Phua"
 [0-1J]: https://github.com/eLn86 "Elnathan"
 [0-1K]: https://github.com/ericsonmok "Ericson Mok"
-[0-1L]: https://github.com/Wiz1221 "GeokYan Peh"
+[0-1L]: https://github.com/Wiz1221 "Geok Yan Peh"
 [0-1M]: https://github.com/jmhs "Han, Jervois Sng"
 [0-1N]: https://github.com/claussian "Hanif Samad"
 [0-1O]: https://github.com/isaackps "Isaac Koh"
 [0-1P]: https://github.com/happypill "Julian"
-[0-1Q]: https://github.com/jcjzdeveloper "Justin Cheong"
+[0-1Q]: https://github.com/jczjdeveloper "Justin Cheong"
 [0-1R]: https://github.com/PuPu-KT "Kenny Tan"
 [0-1S]: https://github.com/MervLim "Mervyn Lim"
 [0-1T]: https://github.com/rubyflames "Rachel Lee"
 [0-1U]: https://github.com/kwokrobyn "Robyn Kwok"
 [0-1V]: https://github.com/tiffchuasx "Tiffany Chua"
 [0-1W]: https://github.com/woodysee "Woody See"
+
+[0-2A]: https://AlexMin314.github.io/game-every-30-secs "Every 30 Seconds"
+[0-2B]: https://dheamariesta.github.io/DDR-Game-Project1 "Dance Dance Revolution"
+[0-2C]: https://HanXiangC.github.io/TowerDefenseGame "Tower Defense"
+[0-2D]: https://JulianaHafid.github.io/project1-game "Shooting Balloons"
+[0-2E]: https://Tan-Sam.github.io/blackJack "Black Jack"
+[0-2F]: https://bryanleejh.github.io/blocks-game "Blocks Game"
+[0-2G]: https://bxw200.github.io/game-project "Match It"
+[0-2H]: https://CharlesChiaYH.github.io/WDI-project1-memorygame "Memory Game"
+[0-2I]: https://dionnephualiann.github.io/game_project "Burger Stack 'em Up'"
+[0-2J]: https://eLn86.github.io/Zombie-apocalypse-game "Zombie Apocalypse"
+[0-2K]: https://ericsonmok.github.io/annoyTheKitty "Annoy the Kitty"
+[0-2L]: https://Wiz1221.github.io/Survive-Zombie-World "Survive Zombie World"
+[0-2M]: https://jmhs.github.io/fallingfurni "Falling Furni"
+[0-2N]: https://claussian.github.io/wdi-assign-1 "LOTR Snake"
+[0-2O]: https://isaackps.github.io/Super-Game "Super Space Destroy-Ya"
+[0-2P]: https://happypill.github.io/Bouncing-Beach-Ball "Bouncing Beach Ball"
+[0-2Q]: https://jczjdeveloper.github.io/WDI-Project-1-Game "Beyond Terra"
+[0-2R]: https://PuPu-KT.github.io/WDI-Jackpot-by-ClassName "Jackpot Machine"
+[0-2S]: https://MervLim.github.io/Project1 "Bumper Cars"
+[0-2T]: https://rubyflames.github.io/wdi-project-1-rachel "Dungeon"
+[0-2U]: https://kwokrobyn.github.io/george-game "George"
+[0-2V]: https://tiffchuasx.github.io/Rage_Project-One "Rage"
+[0-2W]: https://woodysee.github.io/sg-wdi-10-project-1/ "Delivery & Debts"
 
 
 
