@@ -43,7 +43,8 @@ __You must also use this repo to notify of your completed homework. Follow the C
 Note: If you don't mention anything in the comments, I'll assume you had no problems at all with it!
 
 ## Projects
-| Student | Project 1 | Project 2 | Project 3 | Project 4 |
+| Student     | Project 1     | Project 2     | Project 3    | Project 4    |
+|-------------|---------------|---------------|--------------|--------------|
 |[Alex Min][0-1A]|[Every 30 Seconds][0-2A]|-|-|-|
 |[Dhea Mariesta Chanjaya][0-1B]|[Dance Dance Revolution][0-2B]|-|-|-|
 |[Han Xiang Choong][0-1C]|[Tower Defense][0-2C]|-|-|-|
