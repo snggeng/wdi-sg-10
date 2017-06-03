@@ -42,6 +42,31 @@ __You must also use this repo to notify of your completed homework. Follow the C
 
 Note: If you don't mention anything in the comments, I'll assume you had no problems at all with it!
 
+## Projects
+| Student | Project 1 | Project 2 | Project 3 | Project 4 |
+|Alex Min
+|Dhea Mariesta Chanjaya
+|Han Xiang Choong
+|Juliana Hafid
+|Tan Sam
+|Bryan Lee
+|Bulner Xavier
+|Charles Chia
+|Dionne Phua
+|Elnathan
+|Ericson Mok
+|GeokYan Pek
+|Han
+|Hanif Samad Sg
+|Isaac koh
+|Julian
+|Justin Cheong
+|Kenny Tan
+|Mervyn Lim
+|Rachel Lee
+|Robyn Kwok
+|Tiffany Chua
+|Woody See
 
 ## Calendar
 
