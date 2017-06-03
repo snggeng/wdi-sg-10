@@ -61,7 +61,7 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 |[Hanif Samad][0-1N]|[LOTR Snake][0-2N]|-|-|-|
 |[Isaac koh][0-1O]|[Super Space Destroy-Ya][0-2O]|-|-|-|
 |[Julian][0-1P]|[Bouncing Beach Ball][0-2P]|-|-|-|
-|[Justin Cheong][0-1Q]|[Beyond Terra][0-2Q]|-|-|-|
+|[Justin Cheong][0-1Q]|[Homebound][0-2Q]|-|-|-|
 |[Kenny Tan][0-1R]|[Jackpot Machine][0-2R]|-|-|-|
 |[Mervyn Lim][0-1S]|[Bumper Cars][0-2S]|-|-|-|
 |[Rachel Lee][0-1T]|[Dungeon][0-2T]|-|-|-|
@@ -109,7 +109,7 @@ Note: If you don't mention anything in the comments, I'll assume you had no prob
 [0-2N]: https://claussian.github.io/wdi-assign-1 "LOTR Snake"
 [0-2O]: https://isaackps.github.io/Super-Game "Super Space Destroy-Ya"
 [0-2P]: https://happypill.github.io/Bouncing-Beach-Ball "Bouncing Beach Ball"
-[0-2Q]: https://jczjdeveloper.github.io/WDI-Project-1-Game "Beyond Terra"
+[0-2Q]: https://jczjdeveloper.github.io/WDI-Project-1-Game "Homebound"
 [0-2R]: https://PuPu-KT.github.io/WDI-Jackpot-by-ClassName "Jackpot Machine"
 [0-2S]: https://MervLim.github.io/Project1 "Bumper Cars"
 [0-2T]: https://rubyflames.github.io/wdi-project-1-rachel "Dungeon"
