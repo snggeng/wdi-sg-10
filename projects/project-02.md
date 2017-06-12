@@ -4,7 +4,7 @@
 
 ### Overview
 
-This second project is your first foray into **building a full-stack application.** You'll be **building a Hapi.js app,** which means you'll learn about what it takes to build a functional application from the ground up yourself.
+This second project is your first foray into **building a full-stack application.** You'll be **building a Node.js app,** which means you'll learn about what it takes to build a functional application from the ground up yourself.
 
 **This is exciting!** It's a lot, but we'll give you the tools over the next few weeks to be able build what you need, and you get to decide what you do with it. And you get to be creative in choosing what sort of application you want to build!
 
