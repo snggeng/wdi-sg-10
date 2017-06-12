@@ -1,4 +1,5 @@
-
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+# GA | Web Development Immersive
 # WDI SG 10
 This is the main workspace for WDI SG 10. Here you will find all the course materials: assignments, starter-code etc.   
 Lesson notes will be kept in the
@@ -203,6 +204,21 @@ Time   | [Monday](#w3d1)                          | [Tuesday](#w3d2)            
 
 
 [4-2A]: projects/project_1/project_1_code_review.md                   "Project 1 Code Review"
+
+<a name="week5"></a>
+### Week 5 | Node.js Hackathon
+
+| [Monday](#w5d1)                          | [Tuesday](#w5d2)                        | [Wednesday](#w5d3)                      | [Thursday](#w5d4)                       | [Friday](#w4d5)                         |
+| ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| Node.js: Passport                        | Model View Controller                   | Node.js: Hackathon Starter              | Node.js: Middelware                     | Project Spec                            |
+| -                                        | -                                       | -                                       | Node.js: Socket.io ?                    | -                                       |
+| LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
+| Node.js: Social login                    | Labs                                    | Labs                                    | [Node.js: Heroku][5-4A]                 | -                                       |
+|[HLab: Node.js - Passports][5-1A]         | -                                       | -                                       | -                                       | -                                       |
+| -                                        | -                                       | -                                       | -                                       | -                                       |
+
+[5-1A]: https://github.com/wdi-hk-12/nodejs-passport                                          "Node.js: Passport"
+[5-4A]: 04-node.js/node-deployment-heroku                                                     "Node.js: Heroku"
 
 
 ## Licensing
