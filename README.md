@@ -210,8 +210,8 @@ Time   | [Monday](#w3d1)                          | [Tuesday](#w3d2)            
 
 | [Monday](#w5d1)                          | [Tuesday](#w5d2)                        | [Wednesday](#w5d3)                      | [Thursday](#w5d4)                       | [Friday](#w4d5)                         |
 | ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| Node.js: Passport                        | Model View Controller                   | Node.js: Hackathon Starter              | Node.js: Middelware                     | Project Spec                            |
-| -                                        | -                                       | -                                       | Node.js: Socket.io ?                    | -                                       |
+| Node.js: Passport                        | Model View Controller                   | Node.js: Hackathon Starter              | Node.js: Middleware                     | Project Spec                            |
+| -                                        | -                                       | -                                       | Node.js: Socket.io                      | -                                       |
 | LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
 | Node.js: Social login                    | Labs                                    | Labs                                    | [Node.js: Heroku][5-4A]                 | -                                       |
 |[HLab: Node.js - Passports][5-1A]         | -                                       | -                                       | -                                       | -                                       |
