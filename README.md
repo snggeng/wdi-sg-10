@@ -223,17 +223,16 @@ Time   | [Monday](#w3d1)                          | [Tuesday](#w3d2)            
 <a name="week6"></a>
 ### Week 6 | Project 2
 
-| [Monday](#w6d1)                          | [Tuesday](#w6d2)                        | [Wednesday](#w6d3)                      | [Thursday](#w6d4)                       | [Friday](#w6d5)                         | 
+| [Monday](#w6d1)                          | [Tuesday](#w6d2)                        |[Wednesday](#w6d3)                      | [Thursday](#w6d4)                       | [Friday](#w6d5)                         |
 | ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| Daily Standup             | Daily Standup                           | Daily Standup                           | Daily Standup                           | Daily Standup                           |
-|                            |                                         |                                         |                                         |                                         |
-|                            |                                         |                                         |                                         |                                         |
-| LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | *JS CHANGE FREEZE* + LUNCH              |
-|                                |                                         |                                         |                                         | Final touch up (HTML & CSS)             |
-|                                          |                                         |                                         |                                         |                                         |
-|                                          |                                         |                                         |                                         | Presentation                            |
-| Demo                                     | Demo                                    | Demo                                    | Demo                                      |                                  |
-| Done for Day                             | Done for Day                            | Done for Day                            | Done for Day                            | Done for Day                            |
+| Daily Standup    | Daily Standup     | Daily Standup   | Daily Standup    | Demo Day        |
+|                  |                   |                 |                  | CODE FREEZE     |
+|                  |                   |                 |                  | Presentation    |
+| LUNCH            | LUNCH             | LUNCH           | LUNCH            | LUNCH           |
+|                  |                   |                 |                  |                 |
+|                  |                   |                 |                  | Presentation    |
+| Demo             | Demo              | Demo            | Final Touch Ups  |                 |
+| Done for Day     | Is your backend working?| Is your frontend up? | Is your pitch ready?    | Officially Full Stack!  |
 
 
 ## Licensing
