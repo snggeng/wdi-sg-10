@@ -220,6 +220,21 @@ Time   | [Monday](#w3d1)                          | [Tuesday](#w3d2)            
 [5-1A]: https://github.com/wdi-hk-12/nodejs-passport                                          "Node.js: Passport"
 [5-4A]: 04-node.js/node-deployment-heroku                                                     "Node.js: Heroku"
 
+<a name="week6"></a>
+### Week 6 | Project 2
+
+| [Monday](#w6d1)                          | [Tuesday](#w6d2)                        | [Wednesday](#w6d3)                      | [Thursday](#w6d4)                       | [Friday](#w6d5)                         |
+------ | ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| Daily Standup             | Daily Standup                           | Daily Standup                           | Daily Standup                           | Daily Standup                           |
+|                            |                                         |                                         |                                         |                                         |
+|                            |                                         |                                         |                                         |                                         |
+| LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | *JS CHANGE FREEZE* + LUNCH              |
+|                                |                                         |                                         |                                         | Final touch up (HTML & CSS)             |
+|                                          |                                         |                                         |                                         |                                         |
+|                                          |                                         |                                         |                                         | Presentation                            |
+| Demo                                     | Demo                                    | Demo                                    | Demo                                      |                                  |
+| Done for Day                             | Done for Day                            | Done for Day                            | Done for Day                            | Done for Day                            |
+
 
 ## Licensing
 0. All content is licensed under a CC­-BY-­NC-­SA 4.0 license.    
