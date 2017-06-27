@@ -243,7 +243,7 @@ Time   | [Monday](#w3d1)                          | [Tuesday](#w3d2)            
 |  Q & A           |  -                |  -              |  -               |  -              |
 |  -               |  -                |  -              |  -               |  -              |
 | LUNCH            |  LUNCH            |  LUNCH          |  LUNCH           |  LUNCH          |
-|  -               |  -                |  -              |  -               |  -              |
+|  1-1 Feedback Session with Instructional Team               |  -                |  -              |  -               |  -              |
 |  -               |  -                |  -              |  -               |  -              |
 |  -               |  -                |  -              |  -               |  -              |
 
