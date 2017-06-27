@@ -234,6 +234,20 @@ Time   | [Monday](#w3d1)                          | [Tuesday](#w3d2)            
 | Demo             | Demo              | Demo            | Final Touch Ups  |                 |
 | Done for Day     | Is your backend working?| Is your frontend up? | Is your pitch ready?    | Officially Full Stack!  |
 
+<a name="week7"></a>
+### Week 7 | Frontend Frameworks: Intro to React.js
+
+| [Monday](#w7d1)                          | [Tuesday](#w7d2)                        |[Wednesday](#w7d3)                      | [Thursday](#w7d4)                       | [Friday](#w7d5)                         |
+| ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| Unit 2 Recap     | React             | React           | React            | React           |
+|  Q & A           |                   |                 |                  |                 |
+|                  |                   |                 |                  |                 |
+| LUNCH            | LUNCH             | LUNCH           | LUNCH            | LUNCH           |
+|                  |                   |                 |                  |                 |
+|                  |                   |                 |                  |                 |
+|                  |                   |                 |                  |                 |
+
+
 
 ## Licensing
 0. All content is licensed under a CC­-BY-­NC-­SA 4.0 license.    
