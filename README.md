@@ -239,8 +239,8 @@ Time   | [Monday](#w3d1)                          | [Tuesday](#w3d2)            
 
 | [Monday](#w7d1)                          | [Tuesday](#w7d2)                        |[Wednesday](#w7d3)                      | [Thursday](#w7d4)                       | [Friday](#w7d5)                         |
 | ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| Unit 2 Recap     | React             | React           | React            | React           |
-|  Q & A           |                           |                           |                          |                            |
+| Unit 2 Recap     | Intro to React             | Intro to React           | Intermediate React            | Advanced React           |
+|  Q & A           |                   |                 |                  |                 |
 |                  |                   |                 |                  |                 |
 | LUNCH            | LUNCH             | LUNCH           | LUNCH            | LUNCH           |
 |                  |                   |                 |                  |                 |
